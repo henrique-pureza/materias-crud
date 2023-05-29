@@ -1,0 +1,2 @@
+- Filtrar as matérias e tipos
+(filtrar por nome de matéria e por tipo)
